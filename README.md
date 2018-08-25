@@ -1,5 +1,5 @@
 # snoopyisadog.github.io
-Web
+Web: http://snoopyisadog.github.io
 
 Learning to build a website upon Github's service.
 
